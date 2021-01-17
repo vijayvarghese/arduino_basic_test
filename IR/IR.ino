@@ -1,5 +1,5 @@
-int IRSensor = 2; // connect ir sensor to arduino pin 2
-int LED = 13; // conect Led to arduino pin 13
+int IRSensor = 2; // connect ir sensor to arduino pin 2 (for esp replace the pin number with 13 which in board label D7)
+int LED = 13; // conect Led to arduino pin 13 (for esp replace the pin number with 12 which in board label D6)
 
 
 
